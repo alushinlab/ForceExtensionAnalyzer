@@ -91,9 +91,9 @@ specified by the user. Analysis on relevant parameters like breaking force,
 contour length, persistence length, elastic modulus, and changes in contour length
 are printed in this output file, and it may be further processed.
 Example trace.
-![Example Image](example_img.png?raw=true "Example Image")
+![Example Image](imgs/example_img.png?raw=true "Example Image")
 Example trace in debug mode.
-![Example Image Debug Mode](example_img_debug.png?raw=true "Example Image Debug Mode")
+![Example Image Debug Mode](imgs/example_img_debug.png?raw=true "Example Image Debug Mode")
 
 ## 4) Some special use cases
 - If for some reason, the first segmented curve does not fit correctly, and the 
