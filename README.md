@@ -37,7 +37,7 @@ launch the program, you click "Options >> Screen Resolution" in the top menu.
 
 ## 2) Overview of the Graphical User Interface (GUI)
 Upon launching the software, the GUI should open to its default screen:
-![Default Screen](splash_screen.png?raw=true "Default Screen")
+![Default Screen](imgs/splash_screen.png?raw=true "Default Screen")
 
 **Menu Bar:**<br/>
 **-File**: user may select trace to analyze or close the program<br/>
